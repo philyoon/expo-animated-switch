@@ -1,0 +1,17 @@
+{
+  "name": "expo-animated-switch",
+  "version": "0.1.0",
+  "description": "A themeable switch for Expo apps that actually animates on Android (Expo UI Material 3 switch) and keeps React Native's Switch on iOS, with full screen-reader support.",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "files": ["src", "README.md", "LICENSE"],
+  "license": "MIT",
+  "author": "Phil Yoon",
+  "repository": "github:philyoon/expo-animated-switch",
+  "keywords": ["expo", "react-native", "switch", "toggle", "android", "material3", "expo-ui"],
+  "peerDependencies": {
+    "@expo/ui": ">=57.0.0",
+    "react": ">=19",
+    "react-native": ">=0.83"
+  }
+}
